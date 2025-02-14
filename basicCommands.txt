@@ -34,3 +34,7 @@ command for adding remote
 command for push
 
 >git push name branchName
+
+command for listing all branches
+
+>git branch
