@@ -26,3 +26,11 @@ command for adding all untracked files to satging area
 command for adding staged files to localrepository
 
 >git commit -m "commit message"
+
+command for adding remote
+
+>git remote add name path
+
+command for push
+
+>git push name branchName
